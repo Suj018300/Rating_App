@@ -1,6 +1,6 @@
 # Rating App
 
-![AppImage](app images/screen1)
+![AppImage](app images/screen1.jpg)
 
 A new Flutter project.
 
