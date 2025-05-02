@@ -1,6 +1,6 @@
 # Rating App
 
-![AppImage](app images/screen1.jpg)
+![AppImage]([/app images/screen1.jpg](https://github.com/BendreSujal/Rating_App/blob/8a47ec33790ae1bc54d471affbfd34ab950c5f2b/app%20images/screen1.jpg))
 
 A new Flutter project.
 
