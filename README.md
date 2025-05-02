@@ -1,6 +1,6 @@
 # Rating App
 
-<img src="[http://....jpg](https://github.com/BendreSujal/Rating_App/blob/8a47ec33790ae1bc54d471affbfd34ab950c5f2b/app%20images/screen1.jpg)"  height="200" />
+![AppImage](https://github.com/BendreSujal/Rating_App/blob/8a47ec33790ae1bc54d471affbfd34ab950c5f2b/app%20images/screen1.jpg =100x20)
 
 A new Flutter project.
 
