@@ -1,5 +1,7 @@
 # Rating App
 
+![AppImage](app images/screen1)
+
 A new Flutter project.
 
 ## Getting Started
