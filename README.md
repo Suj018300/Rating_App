@@ -1,4 +1,4 @@
-# flutter_p2
+# Rating App
 
 A new Flutter project.
 
