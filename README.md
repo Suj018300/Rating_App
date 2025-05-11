@@ -1,4 +1,4 @@
-# Rating App
+# Rating App with Flutter navigation
 
 ![AppImage](https://github.com/BendreSujal/Rating_App/blob/8a47ec33790ae1bc54d471affbfd34ab950c5f2b/app%20images/screen1.jpg)
 ![AppImage](https://github.com/BendreSujal/Rating_App/blob/e6550c193a510e97fbe3ea8fa78fdacf887a7bea/app%20images/screen2.jpg)
